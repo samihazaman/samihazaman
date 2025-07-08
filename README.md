@@ -14,6 +14,6 @@ I'm currently a Computer Science student at **CUNY Queens College**, minoring in
 
 💻 **Technical Skills**  
 - **Languages:** JavaScript, Python, Java, C++, SQL, HTML/CSS  
-- **Frameworks/Libraries:** React.js, Node.js, Express, Bootstrap5, jQuery, Pandas, NumPy, PyTorch  
+- **Frameworks/Libraries:** React.js, Node.js, Express, Bootstrap5, jQuery, Pandas, NumPy, scikit-learn, matplotlib  
 - **Databases:** MongoDB, PostgreSQL, Supabase  
 - **Tools & Cloud:** Git, Docker, AWS, GCP, Visual Studio Code, Jupyter Notebook
